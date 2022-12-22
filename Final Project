@@ -1,1 +1,22 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Justin's Programming Portfolio</title>
+        <style>
+            body {background-color:yellow;}
+        </style>
+    </head>
+    <body>
+<img src="background.jpg"> <br>
+        <table width="800px">
+            <thead>
+                <tr align="center"> <a href="https://jwchacon.github.io/"><img src="homebutton2.png"></a></tr>
+                <tr align="center"> <a href="https://jwchacon.github.io/javascripts.html"><img src="Javascript.png"></a></tr>
+                <tr align="center"> <a href="https://jwchacon.github.io/about.html"><img src="about2.png"></a></tr>
+                <tr align="center"> <a href="https://jwchacon.github.io/final.html"><img src="final.png"></a></tr>
+        </Table><br>
+            <h1> About </h1>
+            <p>This is my final project for CS106. Log Rush has you play as a boat in a river, dodging logs that are coming towards you using the z and x keys. You get three lives and lose lives by hitting logs. After 75 logs the level and speed increase. </p>
+    </body>
+</html>
